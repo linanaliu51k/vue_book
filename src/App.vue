@@ -43,7 +43,7 @@
         list-style: none
     a
         text-decoration none
-        color #fff
+        color #666
     .scroll
         width 100%
         position: absolute
@@ -52,4 +52,5 @@
         bottom 60px
         overflow-x hidden
         overflow-y auto
+        -webkit-overflow-scrolling touch
 </style>

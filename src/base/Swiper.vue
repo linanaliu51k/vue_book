@@ -13,7 +13,7 @@ export default {
     data() {
         return {
             swiperOption: {
-                // autoplay: 1000,
+                autoplay: 1000,
                 setWrapperSize :true,
                 observeParents:true
             }

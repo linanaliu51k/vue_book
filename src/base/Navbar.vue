@@ -29,7 +29,7 @@ export default {
         bottom 0
         width 100%
         height 60px
-        background #777
+        background #f8f8f8
         border-top 1px solid #ccc
         a {
             display flex
@@ -38,6 +38,6 @@ export default {
             flex 1
         }
         .router-link-active {
-            color blue
+            color #323232
         }
 </style>
